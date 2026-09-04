@@ -1,0 +1,23 @@
+{
+  "display_name": "Scala 3.9.0, ScalaTest 3.2.19",
+  "language": [
+    "Scala",
+    "3.9.0"
+  ],
+  "test_framework": [
+    "ScalaTest",
+    "3.2.19"
+  ],
+  "image_name": "ghcr.io/cyber-dojo-languages/scala_scalatest:d69d3d9",
+  "visible_filenames": [
+    "HikerTest.scala",
+    "Hiker.scala",
+    "cyber-dojo.sh"
+  ],
+  "rag_lambda": "red_amber_green.rb",
+  "filename_extension": [
+    ".scala"
+  ],
+  "max_seconds": 10,
+  "tab_size": 2
+}
