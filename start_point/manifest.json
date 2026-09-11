@@ -1,14 +1,14 @@
 {
-  "display_name": "Scala 3.9.0, ScalaTest 3.2.19",
+  "display_name": "Scala 3.9, ScalaTest 3.2",
   "language": [
     "Scala",
-    "3.9.0"
+    "3.9"
   ],
   "test_framework": [
     "ScalaTest",
-    "3.2.19"
+    "3.2"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/scala_scalatest:d69d3d9",
+  "image_name": "ghcr.io/cyber-dojo-languages/scala_scalatest:8e4db69",
   "visible_filenames": [
     "HikerTest.scala",
     "Hiker.scala",
