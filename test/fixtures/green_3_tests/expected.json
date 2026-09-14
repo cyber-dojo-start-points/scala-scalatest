@@ -1,0 +1,12 @@
+{
+  "max_output_lines": 20,
+  "match_counts": {
+    "^- life the universe and everything$": 1,
+    "^- the answer is even$": 1,
+    "^- the hiker is called arthur$": 1,
+    "^Total number of tests run: 3$": 1,
+    "^Tests: succeeded 3, failed 0, canceled 0, ignored 0, pending 0$": 1,
+    "^All tests passed\\.$": 1
+  },
+  "truncated": false
+}

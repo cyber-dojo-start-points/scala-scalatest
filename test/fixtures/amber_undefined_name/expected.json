@@ -1,0 +1,12 @@
+{
+  "matches": [
+    "^-- \\[E008\\] Not Found Error: HikerTest\\.scala:[0-9]+:[0-9]+ -+$"
+  ],
+  "match_counts": {
+    "value ansewr is not a member of object Hiker - did you mean Hiker\\.answer\\?$": 1,
+    "^1 error found$": 1,
+    "^Total number of tests run: ": 0,
+    "^Discovery starting\\.$": 0
+  },
+  "truncated": false
+}

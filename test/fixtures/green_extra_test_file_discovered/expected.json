@@ -1,0 +1,13 @@
+{
+  "max_output_lines": 20,
+  "match_counts": {
+    "^HikerTest:$": 1,
+    "^AnswerSizeTest:$": 1,
+    "^- life the universe and everything$": 1,
+    "^- the answer is two digits long$": 1,
+    "^Total number of tests run: 2$": 1,
+    "^Suites: completed 3, aborted 0$": 1,
+    "^Tests: succeeded 2, failed 0, canceled 0, ignored 0, pending 0$": 1
+  },
+  "truncated": false
+}

@@ -1,0 +1,13 @@
+{
+  "match_counts": {
+    "\\*\\*\\* FAILED \\*\\*\\*$": 3,
+    "^  54 did not equal 42 \\(HikerTest\\.scala:[0-9]+\\)$": 1,
+    "^  0 did not equal 1 \\(HikerTest\\.scala:[0-9]+\\)$": 1,
+    "^  \"\\[trillian\\]\" did not equal \"\\[arthur\\]\" \\(HikerTest\\.scala:[0-9]+\\)$": 1,
+    "^Total number of tests run: 3$": 1,
+    "^Tests: succeeded 0, failed 3, canceled 0, ignored 0, pending 0$": 1,
+    "^\\*\\*\\* 3 TESTS FAILED \\*\\*\\*$": 1,
+    "^ +at ": 0
+  },
+  "truncated": false
+}

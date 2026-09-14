@@ -1,0 +1,13 @@
+{
+  "matches": [
+    "^ +at \\S+\\(.*\\)$"
+  ],
+  "match_counts": {
+    "^- life the universe and everything \\*\\*\\* FAILED \\*\\*\\*$": 1,
+    "^  java\\.lang\\.ArithmeticException: / by zero$": 1,
+    "^Total number of tests run: 1$": 1,
+    "^Tests: succeeded 0, failed 1, canceled 0, ignored 0, pending 0$": 1,
+    "^\\*\\*\\* 1 TEST FAILED \\*\\*\\*$": 1
+  },
+  "truncated": false
+}

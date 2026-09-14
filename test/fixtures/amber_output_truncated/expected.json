@@ -1,0 +1,12 @@
+{
+  "matches": [
+    "^debug: i is 0$"
+  ],
+  "match_counts": {
+    "^Discovery starting\\.$": 1,
+    "^Total number of tests run: ": 0,
+    "^Tests: succeeded ": 0,
+    "^All tests passed\\.$": 0
+  },
+  "truncated": true
+}

@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^Total number of tests run: 0$": 1,
+    "^Suites: completed 2, aborted 0$": 1,
+    "^Tests: succeeded 0, failed 0, canceled 0, ignored 0, pending 0$": 1,
+    "^No tests were executed\\.$": 1,
+    "FAILED": 0
+  },
+  "truncated": false
+}

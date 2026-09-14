@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^- life the universe and everything \\(pending\\)$": 1,
+    "^Total number of tests run: 0$": 1,
+    "^Tests: succeeded 0, failed 0, canceled 0, ignored 0, pending 1$": 1,
+    "^No tests were executed\\.$": 1,
+    "^All tests passed\\.$": 0
+  },
+  "truncated": false
+}

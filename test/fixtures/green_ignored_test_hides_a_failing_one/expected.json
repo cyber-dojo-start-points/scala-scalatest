@@ -1,0 +1,12 @@
+{
+  "max_output_lines": 20,
+  "match_counts": {
+    "^- life the universe and everything !!! IGNORED !!!$": 1,
+    "^- the answer is two digits long$": 1,
+    "^Total number of tests run: 1$": 1,
+    "^Tests: succeeded 1, failed 0, canceled 0, ignored 1, pending 0$": 1,
+    "^All tests passed\\.$": 1,
+    "FAILED": 0
+  },
+  "truncated": false
+}

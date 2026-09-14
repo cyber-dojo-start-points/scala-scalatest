@@ -1,0 +1,14 @@
+{
+  "matches": [
+    "^ +at \\S+\\(.*\\)$"
+  ],
+  "match_counts": {
+    "^  java\\.lang\\.ArithmeticException: / by zero$": 1,
+    "^  \"\\[trillian\\]\" did not equal \"\\[arthur\\]\" \\(HikerTest\\.scala:[0-9]+\\)$": 1,
+    "\\*\\*\\* FAILED \\*\\*\\*$": 2,
+    "^Total number of tests run: 2$": 1,
+    "^Tests: succeeded 0, failed 2, canceled 0, ignored 0, pending 0$": 1,
+    "^\\*\\*\\* 2 TESTS FAILED \\*\\*\\*$": 1
+  },
+  "truncated": false
+}

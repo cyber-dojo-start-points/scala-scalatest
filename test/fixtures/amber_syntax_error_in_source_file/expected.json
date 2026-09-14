@@ -1,0 +1,12 @@
+{
+  "matches": [
+    "^-- Error: Hiker\\.scala:[0-9]+:[0-9]+ -+$"
+  ],
+  "match_counts": {
+    "end of statement expected but integer literal found$": 1,
+    "^1 error found$": 1,
+    "^Total number of tests run: ": 0,
+    "^Discovery starting\\.$": 0
+  },
+  "truncated": false
+}

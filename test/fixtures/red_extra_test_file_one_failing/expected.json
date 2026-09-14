@@ -1,0 +1,12 @@
+{
+  "match_counts": {
+    "^- the answer is three digits long \\*\\*\\* FAILED \\*\\*\\*$": 1,
+    "^  \"42\" had length 2 instead of expected length 3 \\(AnswerSizeTest\\.scala:[0-9]+\\)$": 1,
+    "^- life the universe and everything$": 1,
+    "^Total number of tests run: 2$": 1,
+    "^Tests: succeeded 1, failed 1, canceled 0, ignored 0, pending 0$": 1,
+    "^\\*\\*\\* 1 TEST FAILED \\*\\*\\*$": 1,
+    "^ +at ": 0
+  },
+  "truncated": false
+}
