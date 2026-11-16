@@ -1,14 +1,14 @@
 {
-  "display_name": "Scala 3.10.0, ScalaTest 3.2.20",
+  "display_name": "Scala 3.10.1, ScalaTest 3.2.20",
   "language": [
     "Scala",
-    "3.10.0"
+    "3.10.1"
   ],
   "test_framework": [
     "ScalaTest",
     "3.2.20"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/scala_scalatest:8d12069@sha256:799e9978c9ebe97fefb80b545ffc4c578bccbc646190f517899686990dd08356",
+  "image_name": "ghcr.io/cyber-dojo-languages/scala_scalatest:9f0dae6@sha256:7fd76b2ab48a62e1f0deea6e9b4a6ce4a4c91bea766ab762f885e318a7a35671",
   "visible_filenames": [
     "HikerTest.scala",
     "Hiker.scala",
